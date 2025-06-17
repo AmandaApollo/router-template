@@ -1,8 +1,7 @@
 federation_version: =2.6.0
 subgraphs:
-  products:
+  submit:
+    routing_url: http://localhost:4000
     schema:
-      subgraph_url: http://localhost:4001
-  users:
-    schema:
-      subgraph_url: http://localhost:4002
+      file: speakerSubmission.graphql
+federation_version: =2.11.0
