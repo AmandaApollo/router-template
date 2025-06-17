@@ -30,4 +30,4 @@ connectors:
     speakerSubmission.supabase:
       $config:
         anonKey: ${env.anonKey}
-      override_url: "rest-api.railway.internal"
+      override_url: ${env.url}
