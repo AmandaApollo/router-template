@@ -24,3 +24,9 @@ telemetry:
   instrumentation:
     spans:
       mode: spec_compliant
+
+connectors:
+  sources:
+    speakerSubmission.supabase:
+      $config:
+        anonKey: ${env.anonKey}
