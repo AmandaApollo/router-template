@@ -1,5 +1,4 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/A-6SvK?referralCode=xsbY2R)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=github.com/apollographql/router-template)
 
 A starting point for deploying the Router via a Dockerfile using [GraphOS Enterprise].
 
